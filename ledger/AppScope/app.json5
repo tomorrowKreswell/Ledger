@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.example.ledger",
+    "bundleName": "com.example.rdb",
     "vendor": "example",
     "versionCode": 1000000,
     "versionName": "1.0.0",

@@ -1,9 +1,0 @@
-{
-  "module": {
-    "name": "lite_chart",
-    "type": "har",
-    "deviceTypes": [
-      "default"
-    ]
-  }
-}

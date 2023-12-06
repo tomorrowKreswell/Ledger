@@ -1,0 +1,21 @@
+{
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "keywords": [
+    "OpenHarmony",
+    "HarmonyOS",
+    "chart",
+    "request",
+    "axios"
+  ],
+  "author": "an-ran0",
+  "name": "lite_chart",
+  "ohos": {
+    "org": "opensource"
+  },
+  "description": "lite_chart是一款轻量的图表绘制工具。它可以使用非常少的代码绘制出漂亮的折线图、曲线图等图形样式。源代码少、调用方便。适合初学者学习",
+  "main": "index.ets",
+  "repository": "git@atomgit.com:so_love_bang/LiteChart.git",
+  "version": "0.0.2",
+  "dependencies": {}
+}

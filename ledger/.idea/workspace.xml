@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcc6a288-3120-4ca7-9e4d-34fa8384d480" name="Changes" comment="[add]newpage_counting">
+      <change afterPath="$PROJECT_DIR$/../download/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/AppScope/app.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/AppScope/resources/base/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/AppScope/resources/base/media/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/build-profile.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/build-profile.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/hvigorfile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/oh-package.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/ets/pages/EntryPage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/ets/pages/counting.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/ets/pages/index.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/base/media/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/base/media/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/en_US/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/rawfile/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/rawfile/foods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/rawfile/foods_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/rawfile/fuel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/rawfile/games_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/rawfile/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/rawfile/snacks_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/main/resources/zh_CN/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/ets/test/Ability.test.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/ets/test/List.test.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/ets/testability/TestAbility.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/ets/testability/pages/Index.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/ets/testrunner/OpenHarmonyTestRunner.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/module.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/resources/base/element/color.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/resources/base/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/resources/base/media/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/entry/src/ohosTest/resources/base/profile/test_pages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/hvigor/hvigor-config.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/hvigor/hvigor-wrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/hvigorfile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/hvigorw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/hvigorw.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/oh-package-lock.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download/oh-package.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/AppScope/app.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/AppScope/resources/base/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/AppScope/resources/base/media/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/build-profile.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/build-profile.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/hvigorfile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/oh-package.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/common/beans/Account.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/common/beans/AccountClassification.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/common/beans/ClassifiedStatistic.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/common/constants/CommonConstants.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/common/database/Rdb.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/common/database/tables/AccountTable.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/common/utils/DateUtils.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/common/utils/Logger.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/common/utils/StatisticalUtils.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/entryability/EntryAbility.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/pages/EntryPage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/pages/MainPage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/pages/StatisticPage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/pages/counting.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/pages/index.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/view/AddDialogComponent.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/view/DateSelectComponent.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/view/DialogComponent.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/view/GroupHeaderBuilder.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/view/StatisticalCardComponent.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/viewmodel/AccountData.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/viewmodel/AccountItem.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/viewmodel/AccountList.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/viewmodel/ConstantsInterface.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/ets/viewmodel/PanelColors.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/module.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/element/color.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/element/pixel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/account_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/cardBackgroundImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/statistic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/statistic_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/media/switch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/base/profile/main_pages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/en_US/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/count.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/foods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/foods_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/fuel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/fuel_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/games.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/games_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/half.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/ic_public_edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/ic_public_input_search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/income.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/income_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/invest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/invest_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/pets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/pets_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/snacks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/snacks_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/travel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/rawfile/travel_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/main/resources/zh_CN/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/ets/test/Ability.test.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/ets/test/List.test.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/ets/testability/TestAbility.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/ets/testability/pages/Index.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/ets/testrunner/OpenHarmonyTestRunner.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/module.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/resources/base/element/color.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/resources/base/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/resources/base/media/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/entry/src/ohosTest/resources/base/profile/test_pages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/hvigor/hvigor-config.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/hvigor/hvigor-wrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/hvigorfile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/hvigorw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/hvigorw.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/oh-package-lock.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../download2/oh-package.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/common/bean/AccountClassification.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/common/utils/DateUtils.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/try.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/build/default/cache/default/default@CompileArkTS/esmodule/.ts_checker_cache" beforeDir="false" afterPath="$PROJECT_DIR$/entry/build/default/cache/default/default@CompileArkTS/esmodule/.ts_checker_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/build/default/intermediates/loader_out/default/ets/modules.abc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/build/default/intermediates/loader_out/default/ets/sourceMaps.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/common/database/Rdb.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/common/database/Rdb.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/common/database/tables/AccountTable.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/common/database/tables/AccountTable.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/viewmodel/AccountData.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/viewmodel/AccountData.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/viewmodel/AccountList.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/viewmodel/AccountList.ets" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ArkTS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YhiHqUyflGrer6uzSvJHH9nJfz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/lyh/DevEcoStudioProjects/ledger/entry/src/main/ets/common/bean"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/entry/src/main/ets/common/bean" />
+      <recent name="$PROJECT_DIR$/entry/src/main/ets/view" />
+      <recent name="$PROJECT_DIR$/entry/src/main/resources/rawfile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenHarmony App.entry">
+    <configuration name="entry" type="HotReLoadTask" factoryName="Hot Reload">
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <MODULE_NAME />
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS />
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <HOT_RELOAD_MODULE_NAME>entry</HOT_RELOAD_MODULE_NAME>
+      <method v="2">
+        <option name="Build.Hvigor.HotReloadBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="entry" type="OhosDebugTask" factoryName="OpenHarmony App">
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <MODULE_NAME>entry</MODULE_NAME>
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS />
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <method v="2">
+        <option name="Build.Hvigor.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[add]newpage_counting" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]newpage_counting" />
+  </component>
+</project>
